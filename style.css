@@ -121,3 +121,76 @@ body {
 .who-i-am .who-description {
   margin: 50px 0;
 }
+
+/* post 3 */
+
+/* Post 3: Skills */
+.skills {
+  margin: 50px;
+  padding: 50px;
+}
+
+.skills .container {
+  max-width: 74%;
+}
+
+.skills-description {
+  margin-bottom: 30px;
+}
+
+.progress {
+  height: 25px;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+/* post 4 */
+
+/* Contact Section */
+.contact {
+  margin: 50px;
+  padding: 50px;
+}
+
+.contact .container {
+  max-width: 74%;
+}
+
+.contact-description {
+  margin-bottom: 30px;
+}
+
+.contact-form .form-control {
+  border-radius: 10px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.contact-form .btn {
+  width: 50%;
+  padding: 10px;
+  border-radius: 30px;
+  font-weight: bold;
+}
+
+/* Footer */
+.footer {
+  background: #111;
+  color: #fff;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
